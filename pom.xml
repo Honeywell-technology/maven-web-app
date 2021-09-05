@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Honeywell Technologies Releases Nexus Repository</name>
 	      <url>http://3.12.166.63:8888/honeywell/repository/ebay-bts-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Honewell Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.12.166.63:8888/honeywell/repository/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
