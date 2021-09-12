@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technologies. 
+<h1 align="center">Welcome to Honewell Technologies</h1>
+<h2 align="center"> 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	It is well with me and mine.
