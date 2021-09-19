@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Honewell Technologies where we enable automation for ease technology</h1>
+<h1 align="center">Welcome to Honeywell Technologies where we enable automation for ease technology</h1>
 <h2 align="center"> 
 	Honeywell Technologies is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	It is well with me and mine.
+	It is well with me and mine.Whatever you can conceive and believe you will can achieve it.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
